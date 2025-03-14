@@ -4,6 +4,8 @@ This automation script helps generate and test code for Code.org projects using 
 
 ## Demo
 
+![Demo GIF](demo.gif)
+
 [Watch full demo video](https://youtu.be/wTGQv4D2CLE)
 
 ## Prerequisites
