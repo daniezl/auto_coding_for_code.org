@@ -4,10 +4,7 @@ This automation script helps generate and test code for Code.org projects using 
 
 ## Demo
 
-<video width="600" controls>
-  <source src="demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch full demo video](https://youtu.be/wTGQv4D2CLE)
 
 ## Prerequisites
 
