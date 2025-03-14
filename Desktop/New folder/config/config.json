@@ -1,0 +1,47 @@
+{
+    "coordinates": {
+        "instruction": {
+            "start": {
+                "x": "<REPLACE_WITH_YOUR_X_COORDINATE>",
+                "y": "<REPLACE_WITH_YOUR_Y_COORDINATE>"
+            },
+            "end": {
+                "x": "<REPLACE_WITH_YOUR_X_COORDINATE>",
+                "y": "<REPLACE_WITH_YOUR_Y_COORDINATE>"
+            }
+        },
+        "classes": {
+            "y": "<REPLACE_WITH_YOUR_Y_COORDINATE>",
+            "spacing": "<REPLACE_WITH_YOUR_SPACING_VALUE>",
+            "class1": {
+                "x": "<REPLACE_WITH_YOUR_X_COORDINATE>"
+            }
+        },
+        "code": {
+            "x": "<REPLACE_WITH_YOUR_X_COORDINATE>",
+            "y": "<REPLACE_WITH_YOUR_Y_COORDINATE>"
+        },
+        "run": {
+            "x": "<REPLACE_WITH_YOUR_X_COORDINATE>",
+            "y": "<REPLACE_WITH_YOUR_Y_COORDINATE>"
+        },
+        "test": {
+            "x": "<REPLACE_WITH_YOUR_X_COORDINATE>",
+            "y": "<REPLACE_WITH_YOUR_Y_COORDINATE>"
+        },
+        "console": {
+            "start": {
+                "x": "<REPLACE_WITH_YOUR_X_COORDINATE>",
+                "y": "<REPLACE_WITH_YOUR_Y_COORDINATE>"
+            },
+            "end": {
+                "x": "<REPLACE_WITH_YOUR_X_COORDINATE>",
+                "y": "<REPLACE_WITH_YOUR_Y_COORDINATE>"
+            }
+        },
+        "clear_console": {
+            "x": "<REPLACE_WITH_YOUR_X_COORDINATE>",
+            "y": "<REPLACE_WITH_YOUR_Y_COORDINATE>"
+        }
+    }
+}
