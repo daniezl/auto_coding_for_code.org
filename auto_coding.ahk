@@ -597,5 +597,7 @@ WinActivate "Code.org"
 Sleep(1000)
 
 ;fixError()
-
-msgbox "done"
+click test_X, test_Y
+;msgbox "done"
+sleep(2000)
+ExitApp()

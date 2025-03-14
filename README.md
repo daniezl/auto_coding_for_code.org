@@ -2,6 +2,13 @@
 
 This automation script helps generate and test code for Code.org projects using DeepSeek AI assistance.
 
+## Demo
+
+<video width="600" controls>
+  <source src="demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Prerequisites
 
 1. **Python**
@@ -51,11 +58,10 @@ Note: If you're using the .ahk script version instead of the .exe, you'll also n
    Note: You'll need to adjust these coordinates based on your screen resolution and Code.org layout.
 
 2. Set up your DeepSeek API credentials:
-   - Create a file named `config.json` with your API key:
-     ```json
-     {
-       "api_key": "your-deepseek-api-key-here"
-     }
+   - Create a file named `apiKey.py` with your API key:
+     ```python
+     # DeepSeek API Credentials
+     DEEPSEEK_API_KEY = "your-deepseek-api-key-here"
      ```
 
 ## Setup
